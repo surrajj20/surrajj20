@@ -1,5 +1,7 @@
 # Hi there 👋
 
+Myself Suraj Sah studying computer science in University School of Information Communication and Technology, GGSIPU.
+
 ### Tech Stack 👨‍💻
 ReactJs⚛️ | JavaScript❤️ | Bootstrap📋 | Jquery💧 | NodeJs⚠️ | Dart🎯 | Flutter🔥
 
