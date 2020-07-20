@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=surrajj20&&show_icons=true&title_color=d50dee&icon_color=51cf2a&text_color=0dd9f6&bg_color=4f4e4e">
+
 # Hi there 👋
 
 I am Suraj Sah studying Computer Science Engineering in University School of Information Communication and Technology, GGSIPU.
