@@ -2,13 +2,13 @@
 
 # Hi there 👋
 
-I am Suraj Sah studying Computer Science Engineering in University School of Information Communication and Technology, GGSIPU.
+I am Suraj Sah, studying Computer Science Engineering at the University School of Information, Communication & Technology, GGSIPU Delhi.
 
 ### Tech Stack 👨‍💻
 ReactJs⚛️ | JavaScript❤️ | Bootstrap📋 | Jquery💧 | NodeJs⚠️ | Dart🎯 | Flutter 
 
-- 🔭 I’m currently working as FullStack Developer.
-- 🌱 I’m currently learning Flutter/dart and exploring Backend stuff.
+- 🔭 I’m currently working as a FullStack Developer.
+- 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on Web projects.
-- 💬 Ask me about anything I am up for chat.
+- 💬 Ask me about anything I am up for a chat.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shahsuraj1200/) [Mail](shah.suraj1200@gmail.com)
