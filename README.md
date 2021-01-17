@@ -16,6 +16,6 @@ ReactJs⚛️ | JavaScript❤️ | Bootstrap📋 | Jquery💧 | NodeJs⚠️ | D
 <details open> 
  <summary><b>Featured Repos</b></summary>
 <p align = "center">
-<a href = "https://github-readme-stats.vercel.app/api/pin/?username=surrajj20&repo=node-v1-chat-app&theme=tokyonight"><img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=surrajj20&repo=node-v1-chat-app&theme=tokyonight" /></a>
+<a href = "https://github.com/surrajj20/Task-Manager-API"><img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=surrajj20&repo=node-v1-chat-app&theme=tokyonight" /></a>
 
 </details>
