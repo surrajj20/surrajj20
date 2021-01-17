@@ -12,3 +12,10 @@ ReactJs⚛️ | JavaScript❤️ | Bootstrap📋 | Jquery💧 | NodeJs⚠️ | D
 - 👯 I’m looking to collaborate on Web projects.
 - 💬 Ask me about anything I am up for a chat.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shahsuraj1200/) [Mail](shah.suraj1200@gmail.com)
+
+<details open> 
+ <summary><b>Featured Repos</b></summary>
+<p align = "center">
+<a href = "https://github-readme-stats.vercel.app/api/pin/?username=surrajj20&repo=node-v1-chat-app&theme=tokyonight"><img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=surrajj20&repo=node-v1-chat-app&theme=tokyonight" /></a>
+
+</details>
